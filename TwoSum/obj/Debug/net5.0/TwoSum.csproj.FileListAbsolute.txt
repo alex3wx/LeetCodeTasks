@@ -1,0 +1,12 @@
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.csprojAssemblyReference.cache
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfoInputs.cache
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
+c:\repo\TwoSum\bin\Debug\net5.0\TwoSum.deps.json
+c:\repo\TwoSum\bin\Debug\net5.0\TwoSum.dll
+c:\repo\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
+c:\repo\TwoSum\bin\Debug\net5.0\TwoSum.pdb
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.dll
+c:\repo\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+c:\repo\TwoSum\obj\Debug\net5.0\TwoSum.pdb
